@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Olá, eu sou Lázaro Rafael Xavier
+#  Olá, eu sou Lázaro Rafael Xavier
 
-### 💻 Engenheiro de Software | Backend Specialist
+###  Engenheiro de Software | Backend Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lázaro-rafael)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lazarorxavier@outlook.com)
@@ -14,31 +14,31 @@
 
 ---
 
-## 🚀 Sobre Mim
+##  Sobre Mim
 
 Engenheiro de Software com **experiência prática** na construção de **Sistemas em Produção** e foco em **Backend**.
 
-🎯 Especializado em desenvolver soluções robustas com ênfase em:
-- ⚡ **Confiabilidade** e **Performance**
-- 📊 **Rastreabilidade** e **Observabilidade**
-- 💼 **Impacto real no negócio**
+ Especializado em desenvolver soluções robustas com ênfase em:
+-  **Confiabilidade** e **Performance**
+-  **Rastreabilidade** e **Observabilidade**
+-  **Impacto real no negócio**
 
-🔄 Atuo no **ciclo completo** de desenvolvimento:
+ Atuo no **ciclo completo** de desenvolvimento:
 ```
 Design de Arquitetura → Desenvolvimento → Testes → Deploy → Monitoramento
 ```
 
-💡 Minha experiência inclui:
-- 🔧 Desenvolvimento de **APIs RESTful** e serviços backend
-- 📐 **Arquitetura de software** e design patterns
-- 🧪 Implementação de **testes automatizados**
-- 🔄 **Integração entre sistemas** e APIs externas
-- 📝 **Regras de negócio complexas**
-- 🚀 **Deploy e CI/CD** com GitHub Actions
+ Minha experiência inclui:
+-  Desenvolvimento de **APIs RESTful** e serviços backend
+-  **Arquitetura de software** e design patterns
+-  Implementação de **testes automatizados**
+-  **Integração entre sistemas** e APIs externas
+-  **Regras de negócio complexas**
+-  **Deploy e CI/CD** com GitHub Actions
 
 ---
 
-## 🛠️ Stack Tecnológica
+##  Stack Tecnológica
 
 ### Backend
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
@@ -66,7 +66,7 @@ Design de Arquitetura → Desenvolvimento → Testes → Deploy → Monitorament
 
 ---
 
-## 🌟 Projetos em Destaque
+##  Projetos em Destaque
 
 <div align="center">
 
@@ -81,16 +81,16 @@ python app.py search --linguagem Python --num-paginas 2
 python app.py compare Python JavaScript Go
 ```
 
-**🎯 Features:**
-- 📊 Dashboard interativo com estatísticas e insights
-- 📈 Gráficos de distribuição de popularidade
-- 🔄 Comparação entre múltiplas linguagens
-- 💾 Sistema de cache inteligente
-- 📋 Exportação para CSV/JSON
-- 🔑 Autenticação GitHub (5000 req/hora)
-- ✅ 17 testes automatizados com 100% de aprovação
+** Features:**
+-  Dashboard interativo com estatísticas e insights
+-  Gráficos de distribuição de popularidade
+-  Comparação entre múltiplas linguagens
+-  Sistema de cache inteligente
+-  Exportação para CSV/JSON
+-  Autenticação GitHub (5000 req/hora)
+-  17 testes automatizados com 100% de aprovação
 
-**🛠️ Tecnologias:**
+** Tecnologias:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rich](https://img.shields.io/badge/Rich-000000?style=flat-square)
@@ -105,20 +105,20 @@ python app.py compare Python JavaScript Go
 
 <div align="center">
 
-### 💼 [API de Gerenciamento de Benefícios](https://github.com/Lazarorx/api-gerenciamento-beneficios)
+###  [API de Gerenciamento de Benefícios](https://github.com/Lazarorx/api-gerenciamento-beneficios)
 **Sistema robusto para gestão de benefícios corporativos**
 
 </div>
 
-**🎯 Features:**
-- 🔐 Autenticação JWT e autorização baseada em roles
-- 📊 Implementação de regras de negócio complexas
-- 🔄 Integração com sistemas externos (ERP, RH)
-- 📝 Documentação completa com Swagger
-- ⚡ Alta performance com cache Redis
-- 🧪 Cobertura de testes de 87%
+**Features:**
+-  Autenticação JWT e autorização baseada em roles
+-  Implementação de regras de negócio complexas
+-  Integração com sistemas externos (ERP, RH)
+-  Documentação completa com Swagger
+-  Alta performance com cache Redis
+-  Cobertura de testes de 87%
 
-**🛠️ Tecnologias:**
+**Tecnologias:**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -128,7 +128,7 @@ python app.py compare Python JavaScript Go
 
 ---
 
-## 📊 Estatísticas GitHub
+##  Estatísticas GitHub
 
 <div align="center">
 
@@ -145,7 +145,7 @@ python app.py compare Python JavaScript Go
 
 ---
 
-## 🏆 Conquistas
+##  Conquistas
 
 <div align="center">
 
@@ -155,18 +155,18 @@ python app.py compare Python JavaScript Go
 
 ---
 
-## 🎯 Atualmente
+##  Atualmente
 
-- 🔭 **Trabalhando em:** Sistemas de Backend escaláveis e APIs RESTful
-- 🌱 **Aprendendo:** Arquitetura de Microsserviços, Event-Driven Architecture, Kubernetes
-- 👯 **Buscando colaborar em:** Projetos Open Source de Backend e ferramentas para desenvolvedores
-- 💬 **Pergunte-me sobre:** Node.js, Python, APIs RESTful, Arquitetura de Software, Clean Code
-- ⚡ **Curiosidade:** Apaixonado por otimização de performance e código limpo
-- 📚 **Lendo:** "Clean Architecture" de Robert C. Martin
+-  **Trabalhando em:** Sistemas de Backend escaláveis e APIs RESTful
+-  **Aprendendo:** Arquitetura de Microsserviços, Event-Driven Architecture, Kubernetes
+-  **Buscando colaborar em:** Projetos Open Source de Backend e ferramentas para desenvolvedores
+-  **Pergunte-me sobre:** Node.js, Python, APIs RESTful, Arquitetura de Software, Clean Code
+-  **Curiosidade:** Apaixonado por otimização de performance e código limpo
+-  **Lendo:** "Clean Architecture" de Robert C. Martin
 
 ---
 
-## 📈 Atividade de Contribuições
+##  Atividade de Contribuições
 
 <div align="center">
   
@@ -176,7 +176,7 @@ python app.py compare Python JavaScript Go
 
 ---
 
-## 📝 Últimos Posts do Blog
+##  Últimos Posts do Blog
 
 <!-- BLOG-POST-LIST:START -->
 - Em breve: Artigos sobre Backend, Node.js e Python
@@ -184,7 +184,7 @@ python app.py compare Python JavaScript Go
 
 ---
 
-## 🤝 Vamos Conectar?
+##  Vamos Conectar?
 
 <div align="center">
 
@@ -200,7 +200,7 @@ Estou sempre aberto a conversas sobre tecnologia, colaborações em projetos int
 
 <div align="center">
   
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+###  *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lazarorx&color=blueviolet&style=flat-square&label=Visitantes+do+Perfil)
 
