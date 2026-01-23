@@ -1,8 +1,13 @@
 # Lázaro Rafael Xavier
 
-### Desenvolvedor de Software | Foco em Backend, Node.js e Python
+### Engenheiro de Software | Foco em Backend, Node.js e Python
 
-Profissional em transição de carreira para a área de tecnologia, com sólida base em desenvolvimento backend e automação. Especialista na aplicação de princípios de Clean Architecture, Clean Code e Testes Automatizados para a construção de sistemas robustos e escaláveis.
+Engenheiro de Software com experiência prática na construção de Sistemas em Produção e foco em Backend.
+
+Sou especializado em desenvolver soluções robustas com ênfase em confiabilidade, rastreabilidade e impacto real no negócio.
+
+Atuo no ciclo completo de desenvolvimento de software, desde o design de arquitetura até a entrega em produção. 
+Minha experiência inclui o desenvolvimento de APIs e serviços backend, com atenção rigorosa à organização de código, implementação de regras de negócio complexas, integração entre sistemas e versionamento com Git.
 
 ---
 
