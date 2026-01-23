@@ -81,7 +81,7 @@ python app.py search --linguagem Python --num-paginas 2
 python app.py compare Python JavaScript Go
 ```
 
-** Features:**
+**Features:**
 -  Dashboard interativo com estatísticas e insights
 -  Gráficos de distribuição de popularidade
 -  Comparação entre múltiplas linguagens
@@ -90,7 +90,7 @@ python app.py compare Python JavaScript Go
 -  Autenticação GitHub (5000 req/hora)
 -  17 testes automatizados com 100% de aprovação
 
-** Tecnologias:**
+**Tecnologias:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rich](https://img.shields.io/badge/Rich-000000?style=flat-square)
