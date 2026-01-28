@@ -1,21 +1,21 @@
 <div align="center">
 
-# 👋 Olá, eu sou Lázaro Rafael Xavier
+# Olá, eu sou Lázaro Rafael Xavier
 
-### 🚀 Engenheiro de Software | Backend Specialist
+### Engenheiro de Software | Backend Specialist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;Building+Scalable+Systems+%F0%9F%9A%80;Clean+Code+Enthusiast+%E2%9C%A8;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+Scalable+Systems;Clean+Code+Enthusiast;Always+Learning" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🎯 Sobre Mim
+## Sobre Mim
 
 ```javascript
 const lazaro = {
     role: "Backend Engineer",
-    location: "Brasil 🇧🇷",
+    location: "Brasil",
     focus: ["Sistemas em Produção", "Arquitetura de Software", "Performance"],
     currentlyLearning: ["Kubernetes", "Microservices", "System Design"],
     funFact: "Code is like humor. When you have to explain it, it's bad.",
@@ -23,14 +23,14 @@ const lazaro = {
 };
 ```
 
-🔹 Especializado em desenvolver **soluções robustas** com foco em **Backend**  
-🔹 Experiência prática na construção de **Sistemas em Produção**  
-🔹 Atuo no **ciclo completo de desenvolvimento**: design, implementação, testes e deploy  
-🔹 Apaixonado por **código limpo**, **performance** e **boas práticas**
+- Especializado em desenvolver **soluções robustas** com foco em **Backend**
+- Experiência prática na construção de **Sistemas em Produção**
+- Atuo no **ciclo completo de desenvolvimento**: design, implementação, testes e deploy
+- Apaixonado por **código limpo**, **performance** e **boas práticas**
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 ### Backend
 <p align="left">
@@ -67,7 +67,7 @@ const lazaro = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lazarorx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
@@ -84,11 +84,11 @@ const lazaro = {
 
 ---
 
-## 🏆 Projetos em Destaque
+## Projetos em Destaque
 
 <div align="center">
 
-### 🏈 [NFL Conference Finals 2026](https://github.com/Lazarorx/nfl-conference-finals-2026)
+### [NFL Conference Finals 2026](https://github.com/Lazarorx/nfl-conference-finals-2026)
 **Landing page fenomenal com React + Vite**
 
 [![NFL Project](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Lazarorx/nfl-conference-finals-2026)
@@ -96,47 +96,47 @@ const lazaro = {
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://github.com/Lazarorx/nfl-conference-finals-2026)
 
 **Features:**
-- ✨ Efeitos visuais avançados (Glassmorphism, Holographic, Glitch)
-- 🎨 100+ partículas interativas com Canvas API
-- 🎭 Animações com Framer Motion
-- 🎯 Dados reais da NFL via ESPN API
-- 🚀 Performance otimizada (60fps)
-- 📱 Totalmente responsivo
+- Efeitos visuais avançados (Glassmorphism, Holographic, Glitch)
+- 100+ partículas interativas com Canvas API
+- Animações com Framer Motion
+- Dados reais da NFL via ESPN API
+- Performance otimizada (60fps)
+- Totalmente responsivo
 
 **Tecnologias:** React 18 • Vite 5 • Framer Motion • Canvas API • CSS3 Advanced
 
 ---
 
-### 🔜 Mais projetos em breve...
-*Trabalhando em projetos backend incríveis!*
+### Mais projetos em breve...
+*Trabalhando em projetos backend incríveis*
 
 </div>
 
 ---
 
-## 🎯 Conquistas
+## Conquistas
 
 <div align="center">
 
 ```
-🎯 Sistemas em Produção        ✅ Código Limpo
-🚀 Performance Otimizada        ✅ Testes Automatizados  
-📦 Arquitetura Escalável        ✅ CI/CD Pipeline
-🔒 Segurança em Primeiro Lugar  ✅ Documentação Completa
+Sistemas em Produção        | Código Limpo
+Performance Otimizada       | Testes Automatizados  
+Arquitetura Escalável       | CI/CD Pipeline
+Segurança em Primeiro Lugar | Documentação Completa
 ```
 
 </div>
 
 ---
 
-## 📈 Atividade de Desenvolvimento
+## Atividade de Desenvolvimento
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
-## 💡 Filosofia de Código
+## Filosofia de Código
 
 > **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
@@ -144,13 +144,13 @@ const lazaro = {
 
 ### Princípios que sigo:
 
-🎯 **SOLID** | 🧹 **Clean Code** | 🧪 **TDD** | 📐 **Design Patterns** | ⚡ **Performance First**
+**SOLID** | **Clean Code** | **TDD** | **Design Patterns** | **Performance First**
 
 </div>
 
 ---
 
-## 🌐 Vamos Conectar?
+## Vamos Conectar?
 
 <div align="center">
 
@@ -163,7 +163,7 @@ const lazaro = {
 
 <div align="center">
 
-### 💬 Estou sempre aberto a:
+### Estou sempre aberto a:
 **Conversas sobre tecnologia** • **Colaborações em projetos** • **Oportunidades de networking**
 
 </div>
@@ -172,7 +172,7 @@ const lazaro = {
 
 <div align="center">
 
-### ⭐ Se você gostou dos meus projetos, considere dar uma estrela!
+### Se você gostou dos meus projetos, considere dar uma estrela
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lazarorx&color=00d4ff&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)
 
