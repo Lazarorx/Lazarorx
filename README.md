@@ -10,21 +10,13 @@
 
 ## Sobre Mim
 
-```javascript
-const lazaro = {
-    role: "Backend Engineer",
-    location: "Brasil",
-    focus: ["Sistemas em Produção", "Arquitetura de Software", "Performance"],
-    currentlyLearning: ["Kubernetes", "Microservices", "System Design"],
-    funFact: "Code is like humor. When you have to explain it, it's bad.",
-    workingOn: "Building robust and scalable backend solutions"
-};
-```
+Engenheiro de Software com experiência prática na construção de **Sistemas em Produção** e foco em **Backend**.
 
-- Especializado em desenvolver **soluções robustas** com foco em **Backend**
-- Experiência prática na construção de **Sistemas em Produção**
-- Atuo no **ciclo completo de desenvolvimento**: design, implementação, testes e deploy
-- Apaixonado por **código limpo**, **performance** e **boas práticas**
+- Especializado em desenvolver **soluções robustas** e **escaláveis**
+- Experiência no **ciclo completo de desenvolvimento**: design, implementação, testes e deploy
+- Foco em **Arquitetura de Software**, **Performance** e **Clean Code**
+- Atualmente aprendendo **Kubernetes**, **Microservices** e **System Design**
+- Apaixonado por **código limpo**, **testes automatizados** e **boas práticas**
 
 ---
 
