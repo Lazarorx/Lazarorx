@@ -4,8 +4,6 @@
 
 ### Engenheiro de Software | Backend Specialist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+Scalable+Systems;Clean+Code+Enthusiast;Always+Learning" alt="Typing SVG" />
-
 </div>
 
 ---
@@ -47,6 +45,7 @@ const lazaro = {
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 
 ### DevOps & Tools
@@ -88,10 +87,30 @@ const lazaro = {
 
 <div align="center">
 
-### [NFL Conference Finals 2026](https://github.com/Lazarorx/nfl-conference-finals-2026)
-**Landing page fenomenal com React + Vite**
+### [API de Gerenciamento de Benefícios](https://github.com/Lazarorx/api-gerenciamento-beneficios)
+**API REST para gerenciamento de benefícios corporativos**
 
-[![NFL Project](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Lazarorx/nfl-conference-finals-2026)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/Lazarorx/api-gerenciamento-beneficios)
+[![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/Lazarorx/api-gerenciamento-beneficios)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/Lazarorx/api-gerenciamento-beneficios)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://github.com/Lazarorx/api-gerenciamento-beneficios)
+
+**Features:**
+- Clean Architecture com separação de camadas
+- 200 testes automatizados com 87% de cobertura
+- CRUD completo de benefícios
+- Validações robustas de dados
+- ESLint para qualidade de código
+- Documentação completa da API
+
+**Tecnologias:** Node.js • Express.js • SQLite • Jest • ESLint • Clean Architecture
+
+---
+
+### [NFL Conference Finals 2026](https://github.com/Lazarorx/nfl-conference-finals-2026)
+**Landing page com React + Vite**
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Lazarorx/nfl-conference-finals-2026)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://github.com/Lazarorx/nfl-conference-finals-2026)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://github.com/Lazarorx/nfl-conference-finals-2026)
 
@@ -101,14 +120,8 @@ const lazaro = {
 - Animações com Framer Motion
 - Dados reais da NFL via ESPN API
 - Performance otimizada (60fps)
-- Totalmente responsivo
 
 **Tecnologias:** React 18 • Vite 5 • Framer Motion • Canvas API • CSS3 Advanced
-
----
-
-### Mais projetos em breve...
-*Trabalhando em projetos backend incríveis*
 
 </div>
 
@@ -175,7 +188,5 @@ Segurança em Primeiro Lugar | Documentação Completa
 ### Se você gostou dos meus projetos, considere dar uma estrela
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lazarorx&color=00d4ff&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>
